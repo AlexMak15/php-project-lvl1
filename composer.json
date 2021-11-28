@@ -1,0 +1,17 @@
+{
+    "name": "hexlet/code",
+    "description": "Brain Games",
+    "license": "MTI",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "bin/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "Alex198615198615@gmail.com"
+        }
+    ],
+    "require": {}
+}
